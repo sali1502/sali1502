@@ -4,14 +4,13 @@ Fullstack developer with a background in graphic production and journalism. I wo
 
 **Tech Stack**
 
-| Frontend    | Backend                 | Databases |
-|-------------|-------------------------|-----------|
-| React       | Node.js (Express, Hapi) | MongoDB   |
-| Next.js     | .NET                    | SQLite    |
-| Angular     |                         | MariaDB   |
-| Vue.js      |                         |           |
-| TypeScript  |                         |           |
-| JavaScript  |                         |           |
-| Tailwind    |                         |           |
-| HTML5       |                         |           |
-| CSS3        |                         |           |
+| Frontend        | Backend                 | Databases |
+|-----------------|-------------------------|-----------|
+| React/Next.js   | Node.js (Express, Hapi) | MongoDB   |
+| Angular         | .NET                    | SQLite    |
+| Vue.js          |                         | MariaDB   |
+| TypeScript      |                         |           |
+| JavaScript      |                         |           |
+| Tailwind        |                         |           |
+| HTML5           |                         |           |
+| CSS3            |                         |           |
