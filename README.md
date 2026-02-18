@@ -1,6 +1,6 @@
 # Åsa Lindskog
 
-Fullstack developer with a background in graphic production and journalism. I work with JavaScript, TypeScript, React, Vue, Angular, Node.js, and .NET. Knowledgeable in accessibility (WCAG) and UX design, including prototyping in Figma. Currently studying Frontend Development with a specialization in React and Next.js. Passionate about inclusive design and building user-friendly digital solutions.
+Junior frontend developer with a background in graphic production and journalism. I work with JavaScript, TypeScript, React, Vue, Angular, Node.js, and .NET. Knowledgeable in accessibility (WCAG) and UX design, including prototyping in Figma. Currently studying Frontend Development with a specialization in React and Next.js. Passionate about inclusive design and building user-friendly digital solutions.
 
 **Tech Stack**
 
